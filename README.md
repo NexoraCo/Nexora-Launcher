@@ -88,4 +88,3 @@ Want to help code? → Check CONTRIBUTING.md
 Distributed under the MIT License.
 See LICENSE file for details.
 
-Part of the NexoraCo organization • Report Bug • Request Feature
