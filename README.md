@@ -62,6 +62,7 @@ Nexora is a **lightweight, all-in-one game launcher** built for indie gamers and
 ```bash
 git clone https://github.com/NexoraCo/Nexora-Launcher.git
 cd Nexora-Launcher
+```
 # Open Nexora.sln in Visual Studio 2022+ (requires .NET 8 SDK)
 📈 Roadmap
 See ROADMAP.md for detailed development timeline.
